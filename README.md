@@ -4,7 +4,7 @@ Welcome to the repo for the MobileServer McMaster University Capstone project! T
 
 This project was generated with CLion 2017.2.3.
 
-#Git Structure
+# Git Structure
 
  An outline of the branches can be found below:
 
@@ -13,7 +13,7 @@ development: The development branch is the shared "work in progress" branch. Whe
 dev-$name: This is considered a personal development branch. It is completely your own, so feel free to make as many commits/changes to it as you like! When you've completed something substantial submit a pull request into development for review.
 All changes to development and master should have been reviewed before merging. Upon each update to the master branch the version number should be changed accordingly, as well as tagged.
 
-#Tips:
+# Tips:
 
 Before making a pull request make sure that you've pulled the latest changes from your branch, as well as the target branch you're merging into
 Make sure that all tests have passed successfully
