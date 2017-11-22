@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="pi4j-core-javadoc">
+    <CLASSES>
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-core.jar!/" />
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-device.jar!/" />
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-example.jar!/" />
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-core-javadoc.jar!/" />
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-device-javadoc.jar!/" />
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-example-javadoc.jar!/" />
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-core-sources.jar!/" />
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-device-sources.jar!/" />
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-example-sources.jar!/" />
+      <root url="jar://E:/BoHan/4th year/Capstone/Code/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
