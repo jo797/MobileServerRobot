@@ -1,4 +1,4 @@
-package com.company;
+package com.mobileserver.mobileserverrobot;
 
 import java.io.IOException;
 
