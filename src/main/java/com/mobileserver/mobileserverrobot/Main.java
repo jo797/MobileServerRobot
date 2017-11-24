@@ -1,8 +1,7 @@
-package com.company;
+package com.mobileserver.mobileserverrobot;
 
 import java.io.IOException;
 
-import org.apache.commons.codec.binary.StringUtils;
 import org.apache.http.HttpEntity;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.HttpResponse;
@@ -12,10 +11,9 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.impl.client.HttpClients;
-import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;
 import org.apache.http.util.EntityUtils;
+
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 

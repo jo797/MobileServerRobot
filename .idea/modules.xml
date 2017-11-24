@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PoC.iml" filepath="$PROJECT_DIR$/PoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobileServerRobot.iml" filepath="$PROJECT_DIR$/MobileServerRobot.iml" />
     </modules>
   </component>
 </project>
